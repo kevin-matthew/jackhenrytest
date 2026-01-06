@@ -1,0 +1,3 @@
+simply run `go build .` then execute `./jack-henry-project`.
+
+Some further instructions will be printed at that point.
